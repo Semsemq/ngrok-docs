@@ -29,7 +29,7 @@
     "test:watch": "vitest watch"
   },
   "dependencies": {
-    "@algolia/autocomplete-core": "1.19.1",
+    "@algolia/autocomplete-core": "1.19.2",
     "@docsearch/react": "3.9.0",
     "@docusaurus/core": "3.7.0",
     "@docusaurus/plugin-client-redirects": "3.7.0",
